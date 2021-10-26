@@ -1,0 +1,2 @@
+When the %{adjective} %{noun} %{adverb} %{verb}, the
+%{adjective} %{noun} %{adverb} %{verb}.
